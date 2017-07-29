@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tushant.tushant.Tushant">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="268dp"
+        android:layout_height="163dp"
+        android:fontFamily="monospace"
+        android:text="Tushant Bhatia"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textSize="55sp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        tools:layout_editor_absoluteX="57dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="HardcodedText,MissingConstraints,UnusedAttribute" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="180dp"
+        android:layout_height="163dp"
+        app:srcCompat="@android:drawable/star_big_on"
+        tools:layout_editor_absoluteX="102dp"
+        tools:layout_editor_absoluteY="201dp"
+        tools:ignore="ContentDescription,MissingConstraints" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="391dp"
+        tools:ignore="HardcodedText,MissingConstraints" />
+
+</android.support.constraint.ConstraintLayout>

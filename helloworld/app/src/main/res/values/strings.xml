@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="login_to_tushant_desktop">LOGIN TO TUSHANT DESKTOP</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">USERNAME</string>
+    <string name="textview">TextView</string>
+    <string name="usern">USERNAME:</string>
+    <string name="name">Name</string>
+    <string name="text">TextView</string>
+    <string name="textv">TextView</string>
+    <string name="button">Button</string>
+    <string name="pass">PASSWORD:</string>
+    <string name="attempts_left">Attempts Left</string>
+    <string name="_4">4</string>
+    <string name="log">Login</string>
+</resources>
